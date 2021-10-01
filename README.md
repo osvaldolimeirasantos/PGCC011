@@ -7,5 +7,5 @@
 </h3>
 
 <h4 align="left">
-	🚧   Concluído 🚀 🚧
+	🚧   Status: Concluído 🚀 🚧
 </h4>
