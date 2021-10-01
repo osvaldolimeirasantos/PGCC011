@@ -1,3 +1,5 @@
+
+
 <h1 align="center">
      ♻️ <a href="#" alt="Tripla Pitagórica"> Tripla Pitagórica </a>
 </h1>
@@ -15,9 +17,6 @@ Tabela de conteúdos
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
    * [Funcionalidades](#-funcionalidades)
-   * [Layout](#-layout)
-     * [Mobile](#mobile)
-     * [Web](#web)
    * [Como executar o projeto](#-como-executar-o-projeto)
      * [Pré-requisitos](#pré-requisitos)
      * [Rodando o Backend (servidor)](#user-content--rodando-o-backend-servidor)
@@ -26,8 +25,6 @@ Tabela de conteúdos
      * [WebSite](#user-content-website--react----typescript)
      * [Server](#user-content-server--nodejs----typescript)
      * [Mobile](#user-content-mobile--react-native----typescript)
-   * [Contribuidores](#-contribuidores)
-   * [Como contribuir no projeto](#-como-contribuir-no-projeto)
    * [Autor](#-autor)
    * [Licença](#user-content--licença)
 <!--te-->
@@ -250,16 +247,15 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-## 🦸 Autor
+## 🦸 Autores
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
+<a href="https://github.com/osvaldolimeirasantos">
  <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago/" title="Rocketseat">🚀</a>
+ <sub><b>Osvaldo Limeira</b></sub></a> <a href="https://github.com/osvaldolimeirasantos" title="Rocketseat">🚀</a>
  <br />
 
-[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:osvaldo@uesb.edu.br)](mailto:osvaldo@uesb.edu.br)
 
 ---
 
@@ -267,10 +263,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito com ❤️ por Thiago Marinho 👋🏽 [Entre em contato!](https://www.linkedin.com/in/tgmarinho/)
-
+Feito com por Osvaldo Limeira
 ---
-
-##  Versões do README
-
-[Português 🇧🇷](./README.md)  |  [Inglês sem emojis 🇺🇸](./README-en.md) | [Portugues sem logo  🇧🇷](./README-sem-logo.md) 
