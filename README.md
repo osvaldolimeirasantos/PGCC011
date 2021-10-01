@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    Os codigos deste projeto tem como função executar de forma serial e de forma paralela nas linguagens C e Python a fim de demonstrar se existe diferença de desempenho entre os códigos seriais e paralelos em cada linguagem.
+    Os codigos deste projeto tem como função executar o cálculo da tripla pitagórica de forma serial e de forma paralela nas linguagens C e Python a fim de demonstrar se existe diferença de desempenho entre os códigos seriais e paralelos em cada linguagem.
 </h3>
 
 <h4 align="left">
@@ -30,10 +30,8 @@ Este projeto faz parte das avaliações da disciplina Computação de Alto Desem
 
 ### Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-* gcc
-* python3
-* python3-distutils
+Para executar o projeto é necessário possuir Sistema Operacional Linux com o compilador gcc (Nas distribuições baseadas no Debian pode-se através do comando: "sudo apt install build-essential" instalar o pacote build-essencial que possui diversos elementos como compiladores, utilitarios e bibliotecas. 
+
 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
