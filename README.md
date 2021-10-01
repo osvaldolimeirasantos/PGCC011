@@ -1,7 +1,5 @@
-
-
 <h1 align="center">
-     ♻️ <a href="#" alt="Tripla Pitagórica"> Ecoleta </a>
+     ♻️ <a href="#" alt="Tripla Pitagórica"> Tripla Pitagórica </a>
 </h1>
 
 <h3 align="left">
