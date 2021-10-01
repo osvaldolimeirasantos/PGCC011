@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="left">
-    🌱 Seu marketplace de coleta de resíduos. Ajudamos pessoas a encontrarem pontos de coleta de forma eficiente. 💚
+    Os codigos deste projeto tem como função executar XXXX de forma serial e de forma paralela nas linguagens C e Python a fim de demonstrar a diferença de desempenho entre os códigos seriais e paralelos em cada lingugem.
 </h3>
 
 <h4 align="left">
