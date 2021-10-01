@@ -14,8 +14,8 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
-   * [Como executar o projeto](#-como-executar-o-projeto)
    * [Pré-requisitos](#pré-requisitos)
+   * [Como executar o projeto](#-como-executar-o-projeto)
    * [Autores](#-autores)
    * [Licença](#user-content--licença)
 <!--te-->
@@ -28,16 +28,19 @@ Este projeto faz parte das avaliações da disciplina Computação de Alto Desem
 ---
 
 
-## 🚀 Como executar o projeto
-
-💡
-
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+* gcc
+* python3
+* python3-distutils:
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
+
+## 🚀 Como executar o projeto
+
+
+💡
 
 ## 🦸 Autores
 
