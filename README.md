@@ -24,6 +24,8 @@ Tabela de conteúdos
 ## 💻 Sobre o projeto
 
 Este projeto faz parte das avaliações da disciplina Computação de Alto Desempenho - PGCC011, ministrada pelo Professor Angelo Duarte do Programa de Pós-Graduação em Ciências da Computação da Universidade Estadual de Feira de Santana.
+A tarefa é executar o cálculo da quantidade de triplas pitagoricas em uma quantidade de números passada para a função. Após a execução do cálculo, é impressa a quantidade de ternos pitagoricos encontrados no intervalo.
+Faz parte do escopo dessa atividade levantar a curva de escalabilidade em função do tamanho do problema e do número de Cores da máquino nos codigos paralelos e também, comparar o desempenho entres os códigos e linguagens.
 
 ---
 
