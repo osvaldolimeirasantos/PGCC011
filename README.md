@@ -2,6 +2,7 @@
 
 <a href="https://github.com/osvaldolimeirasantos">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/91644823?v=4" width="100px;" alt=""/>
+ &nbsp; 
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/91644823?v=4" width="100px;" alt=""/>
  <br />
  
