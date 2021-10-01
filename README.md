@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
      <a> Tripla Pitagórica </a>
 </h1>
@@ -18,7 +16,6 @@ Tabela de conteúdos
    * [Sobre o projeto](#-sobre-o-projeto)
    * [Como executar o projeto](#-como-executar-o-projeto)
    * [Pré-requisitos](#pré-requisitos)
-   * [Tecnologias](#-tecnologias)
    * [Autores](#-autores)
    * [Licença](#user-content--licença)
 <!--te-->
@@ -26,7 +23,7 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto
 
-Este projeto faz parte das avaliações da disciplina PGCC011 (Computação de Alto Desempenho) do Programa de Pós-Graduação em Ciências da Computação da Universidade Estadual de Feira de Santana.
+Este projeto faz parte das avaliações da disciplina Computação de Alto Desempenho - PGCC011, ministrada pelo Professor Angelo Duarte do Programa de Pós-Graduação em Ciências da Computação da Universidade Estadual de Feira de Santana.
 
 ---
 
