@@ -30,7 +30,7 @@ Este projeto faz parte das avaliações da disciplina Computação de Alto Desem
 
 ### Pré-requisitos
 
-Para executar o projeto é necessário possuir Sistema Operacional Linux com o compilador gcc (Nas distribuições baseadas no Debian pode-se através do comando: "sudo apt install build-essential" instalar o pacote build-essencial que possui diversos elementos como compiladores, utilitarios e bibliotecas. 
+Para executar o projeto é necessário possuir Sistema Operacional Linux com o compilador gcc (Nas distribuições baseadas no Debian pode-se através do comando: "sudo apt install build-essential" instalar o pacote build-essencial que possui diversos elementos como compiladores, utilitários e bibliotecas. 
 
 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
