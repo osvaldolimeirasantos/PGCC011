@@ -33,7 +33,8 @@ Este projeto faz parte das avaliações da disciplina Computação de Alto Desem
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 * gcc
 * python3
-* python3-distutils:
+* python3-distutils
+
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 
