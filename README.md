@@ -32,7 +32,7 @@ Faz parte do escopo dessa atividade levantar a curva de escalabilidade em funç�
 
 ### Pré-requisitos
 
-Para executar o projeto é necessário possuir Sistema Operacional Windows ou Linux com o compilador gcc. 
+Para executar o projeto é necessário possuir Sistema Operacional Windows ou Linux com o compilador gcc instalado. 
 
 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
