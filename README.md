@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    Os codigos deste projeto tem como função executar o cálculo da tripla pitagórica de forma serial e de forma paralela nas linguagens C++ e Python a fim de demonstrar se existe diferença de desempenho entre os códigos seriais e paralelos em cada linguagem.
+    Os códigos deste projeto tem como função executar o cálculo da tripla pitagórica de forma serial e de forma paralela nas linguagens C++ e Python a fim de demonstrar se existe diferença de desempenho entre os códigos seriais e paralelos em cada linguagem.
 </h3>
 
 <h4 align="left">
