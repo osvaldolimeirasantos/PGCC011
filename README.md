@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    Os codigos deste projeto tem como função executar o cálculo da tripla pitagórica de forma serial e de forma paralela nas linguagens C e Python a fim de demonstrar se existe diferença de desempenho entre os códigos seriais e paralelos em cada linguagem.
+    Os codigos deste projeto tem como função executar o cálculo da tripla pitagórica de forma serial e de forma paralela nas linguagens C++ e Python a fim de demonstrar se existe diferença de desempenho entre os códigos seriais e paralelos em cada linguagem.
 </h3>
 
 <h4 align="left">
@@ -32,16 +32,13 @@ Faz parte do escopo dessa atividade levantar a curva de escalabilidade em funç�
 
 ### Pré-requisitos
 
-Para executar o projeto é necessário possuir Sistema Operacional Windows ou Linux com o compilador gcc instalado. 
-
-
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+Para executar o projeto é necessário possuir Sistema Operacional Windows ou Linux com um compilador gcc instalado e um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
 
 ## 🚀 Como executar o projeto
 
 
-💡
+💡 Todos os códigos possuem a mesma forma de execução. É necessario abrir o mesmo em uma IDE, alterar a variavel quantidade para o valor desejado e compilar o código, obtendo assim o resultado.
 
 ## 🦸 Autores
 
