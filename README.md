@@ -38,7 +38,8 @@ Para executar o projeto é necessário possuir Sistema Operacional Windows ou Li
 ## 🚀 Como executar o projeto
 
 
-💡 Todos os códigos possuem a mesma forma de execução. É necessario abrir o mesmo em uma IDE, alterar a variavel quantidade para o valor desejado e compilar o código, obtendo assim o resultado. No código paralelo é possível determinar o número de threads que serão utilizadas.
+💡 Todos os códigos possuem a mesma forma de execução. É necessario abrir o mesmo em uma IDE, alterar a variavel quantidade para o valor desejado e compilar o código, obtendo assim o resultado. 
+No código paralelo é possível determinar o número de threads que serão utilizadas na execução dos cálculos.
 
 ## 🦸 Autores
 
