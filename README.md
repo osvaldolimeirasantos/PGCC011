@@ -32,7 +32,7 @@ Faz parte do escopo dessa atividade levantar a curva de escalabilidade em funç�
 
 ### Pré-requisitos
 
-Para executar o projeto é necessário possuir Sistema Operacional Linux com o compilador gcc (Nas distribuições baseadas no Debian pode-se através do comando: "sudo apt install build-essential" instalar o pacote build-essencial que possui diversos elementos como compiladores, utilitários e bibliotecas. 
+Para executar o projeto é necessário possuir Sistema Operacional Windows ou Linux com o compilador gcc. 
 
 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
